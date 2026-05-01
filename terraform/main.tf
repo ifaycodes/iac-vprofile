@@ -15,3 +15,4 @@ locals {
   cluster_name = "${var.clustername}-${random_string.suffix.result}"
 }
 
+# test
